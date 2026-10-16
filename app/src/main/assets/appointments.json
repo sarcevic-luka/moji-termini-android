@@ -1,0 +1,14 @@
+{
+  "appointments": [
+    { "id": 101, "doctorName": "dr. Marko Babić", "specialty": "Kardiologija", "clinic": "Poliklinika Centar", "address": "Ilica 12, Zagreb", "phone": "01 4567 890", "date": "2026-09-14 08:30", "status": "done", "note": "Donijeti nalaze EKG-a", "room": "Ordinacija 3" },
+    { "id": 102, "doctorName": "dr. Ana Kovačević", "specialty": "Dermatologija", "clinic": "Poliklinika Centar", "address": "Ilica 12, Zagreb", "phone": "01 4567 891", "date": "2026-10-02 11:00", "status": "done", "note": null, "room": "Ordinacija 7" },
+    { "id": 103, "doctorName": "dr. Ivan Perić", "specialty": "Ortopedija", "clinic": "Poliklinika Trešnjevka", "address": "Ozaljska 93, Zagreb", "phone": "01 3890 112", "date": "2026-10-09 14:15", "status": "cancelled", "note": null, "room": null },
+    { "id": 104, "doctorName": "dr. Marko Babić", "specialty": "Kardiologija", "clinic": "Poliklinika Centar", "address": "Ilica 12, Zagreb", "phone": "01 4567 890", "date": "2026-11-04 09:30", "status": "booked", "note": "Kontrolni pregled, natašte", "room": "Ordinacija 3" },
+    { "id": 105, "doctorName": "dr. Petra Jurić", "specialty": "Oftalmologija", "clinic": "Poliklinika Split", "address": "Poljička cesta 35, Split", "phone": "021 456 789", "date": "2026-11-18 16:45", "status": "booked", "note": "Ne voziti nakon pregleda (kapi za širenje zjenica)", "room": "Ordinacija 2" },
+    { "id": 106, "doctorName": "dr. Tomislav Novak", "specialty": "Interna medicina", "clinic": "Poliklinika Trešnjevka", "address": "Ozaljska 93, Zagreb", "phone": "01 3890 115", "date": "2026-12-01 08:00", "status": "booked", "note": "Vađenje krvi, doći natašte", "room": "Laboratorij" },
+    { "id": 107, "doctorName": "dr. Ana Kovačević", "specialty": "Dermatologija", "clinic": "Poliklinika Centar", "address": "Ilica 12, Zagreb", "phone": "01 4567 891", "date": "2026-12-15 13:30", "status": "cancelled", "note": null, "room": "Ordinacija 7" },
+    { "id": 108, "doctorName": "dr. Lucija Marić", "specialty": "Neurologija", "clinic": "Poliklinika Osijek", "address": "Europska avenija 8, Osijek", "phone": "031 222 333", "date": "2027-01-12 10:00", "status": "booked", "note": "Ponijeti sve dosadašnje nalaze", "room": "Ordinacija 5" },
+    { "id": 109, "doctorName": "dr. Ivan Perić", "specialty": "Ortopedija", "clinic": "Poliklinika Trešnjevka", "address": "Ozaljska 93, Zagreb", "phone": "01 3890 112", "date": "2027-02-03 15:00", "status": "booked", "note": null, "room": "Ordinacija 1" },
+    { "id": 110, "doctorName": "dr. Sanja Vuković", "specialty": "Endokrinologija", "clinic": "Poliklinika Rijeka", "address": "Krešimirova 42, Rijeka", "phone": "051 334 556", "date": "2027-03-22 09:00", "status": "booked", "note": "Kontrola štitnjače", "room": null }
+  ]
+}

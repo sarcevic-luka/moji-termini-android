@@ -1,0 +1,7 @@
+[
+  { "name": "dr. Marko Babić", "specialty": "Kardiologija", "freeSlots": ["2026-11-10 08:00", "2026-11-10 08:30", "2026-11-12 13:00"] },
+  { "name": "dr. Ana Kovačević", "specialty": "Dermatologija", "freeSlots": ["2026-11-05 11:00", "2026-11-19 09:15"] },
+  { "name": "dr. Ivan Perić", "specialty": "Ortopedija", "freeSlots": [] },
+  { "name": "dr. Petra Jurić", "specialty": "Oftalmologija", "freeSlots": ["2026-12-02 16:00", "2026-12-02 16:30", "2026-12-09 10:00"] },
+  { "name": "dr. Lucija Marić", "specialty": "Neurologija", "freeSlots": ["2027-01-20 12:00"] }
+]
